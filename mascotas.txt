@@ -1,0 +1,6 @@
+Piolin,Isra,1234567890
+Lazi,Carito,9876543210
+Fido,Carlos ,2226332255
+Lula,Ruy,9875542212
+Rin Tin,Manuel,5521223366
+Solovino,Rey panter,3334444999
